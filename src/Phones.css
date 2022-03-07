@@ -1,0 +1,151 @@
+.clothing{
+    background-color: rgb(243, 240, 240);
+    
+}
+.row1{
+    margin: 10px;
+    background-color: white;
+    margin-left: 20px;
+    display: flex;
+    box-shadow: 4px 2px 5px gray;
+}   
+.row1>h3{
+    padding: 30px 30px;
+    margin-right: 40px;
+}
+.btn{
+    margin-top: 50px;
+    width: 200px;
+    margin-right: 20px;
+    border-radius: 21px;
+}
+    
+.row1>p{
+    font-weight: 500;
+    font-size: small;
+  
+}
+.row2>h3{
+    padding: 30px 30px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+.row2>p{
+    font-weight: 500;
+    font-size: small;
+}
+.row2{
+    /* height: max-content; */
+    margin: 10px;
+    background-color: white;
+    margin-left: 20px;
+    display: flex;
+    box-shadow: 4px 2px 5px gray;
+}
+.row3{
+    margin: 10px;
+    margin-left: 20px;
+    background-color: white;
+    box-shadow: 4px 2px 5px gray;
+    display: flex;
+}
+.row4{
+    margin: 10px;
+    margin-left: 20px;
+    box-shadow: 4px 2px 5px gray;
+    background-color: white;
+    display: flex;
+}
+.img1{
+    margin: 20px;
+    height: 180px;
+    width: 30%;
+    height: 240px;
+    padding-right:50px;
+    
+}
+
+.img2{
+    margin: 20px;
+    height: 200px;
+    width: 40%;
+    height: 250px;
+    padding-right:42px;
+    padding-bottom: 30px;
+}
+.img3{
+    margin: 20px;
+    height: 200px;
+    /* width: 17%!important; */
+    height: 250px;
+    padding-right:30px;
+    padding-bottom: 30px;
+}
+#img2__{
+width: 15%;
+}
+.img4{
+    margin: 20px;
+    height: 180px;
+    width: 13%;
+    height: 220px;
+    padding-right: 60px;
+}
+.Price1{
+    list-style-type: none;
+    /* margin-top: 50px; */
+    flex-direction: row;
+
+}
+/* .row2>headin
+} */
+.a{
+    margin-top: 80px;
+    /* margin-right: 500px; */
+}
+h3{
+    margin-top:10px;
+}
+.heading{
+    align-items: center;
+}
+#price1{
+    margin-top: 20px; 
+}
+#price1__{
+    color: blue;
+    font-weight: 500;
+}
+#price2{
+    margin-top: 20px;
+}
+#price2__{
+    color: blue;
+    font-weight: 500;
+}
+#price3{
+    margin-top: 20px;
+}
+#price3__{
+    color: blue;
+    font-weight: 500;
+}
+.img2>h3{
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+#price4{
+    margin-top: 20px;
+    
+}
+#price4__{
+    color: blue;
+    font-weight: 500;
+}
+.row3>.heading{
+    margin-left: 15px;
+}
+
+/* .row4>heading{
+    margin-left: 50px;
+} */
